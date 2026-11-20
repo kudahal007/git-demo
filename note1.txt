@@ -1,0 +1,4 @@
+This is a test to add new file in notes branch mimicking a pr request via github to merge changes to main branch from project owner.
+
+Adding new line of comment after seting git puh -u upstream to notes branch to test git push orign pushes to the current branch automatically.
+
