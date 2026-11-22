@@ -1,1 +1,7 @@
 This is a demo file to test basic git initialization of a new project.
+
+1)Created experimental branch to test the branching in git.
+
+This note is added to make sure we have successfully created branch that is point 1) completed
+y
+
